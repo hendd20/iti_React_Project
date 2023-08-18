@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/hendd20/iti_React_Project/static/css/main.05b8d631.css",
+    "main.js": "/hendd20/iti_React_Project/static/js/main.640d63d0.js",
+    "static/js/787.ec704a7a.chunk.js": "/hendd20/iti_React_Project/static/js/787.ec704a7a.chunk.js",
+    "static/media/video.mp4": "/hendd20/iti_React_Project/static/media/video.9f9a7d0d71a4b60b19a1.mp4",
+    "static/media/about.png": "/hendd20/iti_React_Project/static/media/about.e1eccaca006684316400.png",
+    "static/media/top-view-chocolate-ice-creams-table_23-2148513984.jpg": "/hendd20/iti_React_Project/static/media/top-view-chocolate-ice-creams-table_23-2148513984.173b700ed69410ec322d.jpg",
+    "static/media/heroback.jpg": "/hendd20/iti_React_Project/static/media/heroback.e594b02bf2a292cb8d3e.jpg",
+    "static/media/cake2.webp": "/hendd20/iti_React_Project/static/media/cake2.df89c50790435169d15d.webp",
+    "static/media/browni.webp": "/hendd20/iti_React_Project/static/media/browni.daf971713a711ab75f99.webp",
+    "static/media/hero.jpg": "/hendd20/iti_React_Project/static/media/hero.575fec4690d390786185.jpg",
+    "static/media/homecake.webp": "/hendd20/iti_React_Project/static/media/homecake.5422149ad472e0431b32.webp",
+    "static/media/text.png": "/hendd20/iti_React_Project/static/media/text.a60ca00d32a264e0b1fa.png",
+    "static/media/donat.webp": "/hendd20/iti_React_Project/static/media/donat.4f16a58933294a509e53.webp",
+    "static/media/homeice.webp": "/hendd20/iti_React_Project/static/media/homeice.ecafd1ebdbf41779bfc0.webp",
+    "static/media/slider.webp": "/hendd20/iti_React_Project/static/media/slider.7604fe9e9c82eded196f.webp",
+    "static/media/choco donats.webp": "/hendd20/iti_React_Project/static/media/choco donats.e43831dc6c02e2c86a53.webp",
+    "static/media/chocolate-cake_126019-11.webp": "/hendd20/iti_React_Project/static/media/chocolate-cake_126019-11.ac21c45231f4ea86acbd.webp",
+    "static/media/muffin.webp": "/hendd20/iti_React_Project/static/media/muffin.9398e2941c48b9e8c6f6.webp",
+    "static/media/donats.webp": "/hendd20/iti_React_Project/static/media/donats.2ea5af4fc900b415c58a.webp",
+    "static/media/farmsi.webp": "/hendd20/iti_React_Project/static/media/farmsi.d1315e10ee4ba0b8329e.webp",
+    "static/media/cake6.jpg": "/hendd20/iti_React_Project/static/media/cake6.449d5b060e35ee53a352.jpg",
+    "static/media/homedounts.webp": "/hendd20/iti_React_Project/static/media/homedounts.90718008cc76d61fe047.webp",
+    "static/media/cupcakes_74190-254.webp": "/hendd20/iti_React_Project/static/media/cupcakes_74190-254.e7c08756b3ede28176e3.webp",
+    "static/media/chocolate-cupcake_144627-21987.webp": "/hendd20/iti_React_Project/static/media/chocolate-cupcake_144627-21987.f11c4b3e6c38c0186135.webp",
+    "static/media/crispy donats.webp": "/hendd20/iti_React_Project/static/media/crispy donats.2d57ad9ce24b0b9317bf.webp",
+    "static/media/p3.png": "/hendd20/iti_React_Project/static/media/p3.3346f67a7ce2ec4bb9c7.png",
+    "static/media/p1.png": "/hendd20/iti_React_Project/static/media/p1.a0b26aecc815da570d0a.png",
+    "static/media/homecupcakes.webp": "/hendd20/iti_React_Project/static/media/homecupcakes.891fa9fce6acdc090047.webp",
+    "static/media/p4.png": "/hendd20/iti_React_Project/static/media/p4.12c950f7843d9b5fbc21.png",
+    "static/media/p2.png": "/hendd20/iti_React_Project/static/media/p2.1f565a4c14fe30c23864.png",
+    "static/media/logo.png": "/hendd20/iti_React_Project/static/media/logo.557d4b80f5cadffe30b2.png",
+    "index.html": "/hendd20/iti_React_Project/index.html",
+    "main.05b8d631.css.map": "/hendd20/iti_React_Project/static/css/main.05b8d631.css.map",
+    "main.640d63d0.js.map": "/hendd20/iti_React_Project/static/js/main.640d63d0.js.map",
+    "787.ec704a7a.chunk.js.map": "/hendd20/iti_React_Project/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b8d631.css",
+    "static/js/main.640d63d0.js"
+  ]
+}
