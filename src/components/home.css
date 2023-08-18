@@ -1,0 +1,126 @@
+.bg{
+    background-size: cover !important;
+    position: relative !important;
+    height: 750px;
+    width: 100%;
+}
+.image{
+    position: absolute !important;
+    top: 0;
+    right: 1px;
+    height: 750px;
+}
+.caption{
+    position: absolute;
+    right: 53%!important;
+    left: 130px !important;
+    bottom: 220px !important;
+    font-family: cursive;
+    transition: 0.3s;
+}
+.caption.more{
+    bottom: 290px !important;
+
+}
+p{
+    transition: 0.3s;
+}
+.caption p:hover{
+    cursor: pointer;
+    color:rgb(255, 29, 146) !important; 
+
+}
+.carousel-indicators{
+    display: none !important;
+}
+.w-100{
+    height: 750px;
+}
+@media (min-width:350px) {
+    .caption{
+        display: none;
+
+    }
+}
+@media (min-width:1000px) {
+    .caption{
+        display: block;
+
+    }
+}
+@media (min-width:1200px) {
+   .caption{
+    display: block;
+   }
+}
+.parentbox{
+    background-color: #eee;
+}
+.boxhome{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.boxhome2 img{
+    width: 245px !important;
+    height: 200px;
+}
+@media (max-width:550px) {
+    .boxhome2{
+        display: none;
+    }
+    
+}
+.boxhome1 h2{
+    font-family: HelveticaNeue,Helvetica Neue,helvetica,Sans-Serif !important;
+    font-weight: 400 !important;
+    color:rgb(155, 121, 30) !important; 
+    letter-spacing: 2px;
+
+}
+.boxhome1 p{
+    letter-spacing: 1.4px;
+    font-weight: 300;
+}
+.boxhome1 .parag_one{
+    font-weight: 400 !important;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(155, 121, 30) ;    
+}
+
+video{
+    max-width: 100%;
+}
+.video{
+    position: relative;
+    overflow: hidden;
+}
+.video::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgb(0 0 0 / 40%);
+    width: 100%;
+    height: 100%;
+}
+.video .hometext{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgb(201 157 39 / 15%);
+    text-align: center;
+    padding: 50px;
+    color: white;
+    z-index: 2;
+}
+.contact{
+    height: 411px;
+}
+.contact h2{
+    font-family: HelveticaNeue,Helvetica Neue,helvetica,Sans-Serif !important;
+    letter-spacing: 3px;
+    color:rgb(155, 121, 30) !important;
+    font-weight: 300 !important;
+
+}

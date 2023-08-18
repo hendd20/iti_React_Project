@@ -1,0 +1,26 @@
+.accordion-button::after{
+    visibility: hidden !important;
+}
+.btnAdd{
+    background-color: rgb(255, 29, 146) !important;
+    border-color: rgb(255, 29, 146) !important;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+.accordion-item:last-of-type {
+    border: 0px !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: #eee !important;
+}
+.head{
+    font-size: 25px;
+    color: rgb(216, 62, 134) !important;
+}
+.about{
+    background-color: #eee;
+    font-size: large;
+}

@@ -1,0 +1,31 @@
+.me-auto {
+    flex-direction: column !important;
+    transition: 0.3s;
+}
+.nav-link:hover{
+    color:rgb(255, 29, 146) !important;
+}
+.nav-link{
+    font-family: cursive;
+    font-size: 14px;
+    
+}
+.text{
+    font-size: 15px;
+}
+.navbar>.container{
+    align-items: flex-start !important;
+}
+.logo{
+    width: 250px;
+}
+.containerLinks{
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill , minmax(250px , 1fr)) !important;
+    gap: 20px !important;
+}
+@media (min-width:200px) {
+    .me-auto {
+        margin: auto !important;
+    }
+}
